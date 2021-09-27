@@ -1,6 +1,6 @@
 import axios from "axios";
 
-// const url = "http://localhost:5000/posts"; // use this URL if running locally
+// const url = "http://localhost:5000/posts"; // use this URL if you want to run the server locally
 const url = "https://reddit-clone-mern-stack.herokuapp.com/posts";
 
 export const fetchPosts = () => axios.get(url);

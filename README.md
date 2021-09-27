@@ -5,6 +5,3 @@
 A reddit clone using the MERN stack.
 
 I built this by following [this wonderful tutorial](https://www.youtube.com/watch?v=ngc9gnGgUdA).
-
-View the website here:
-https://reddit-clone-mern-stack.netlify.app/
